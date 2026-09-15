@@ -1,0 +1,4 @@
+[song][artist]Roberton, Bannerman[/artist][title]Mairi&#x27;s Wedding[/title][compact]49Step49gai49ly,49on49we49go0*49Heel49for51heel49and50toe49for49toe49oe0*49Arm49in56arm49on49go49go0*49All49for49Ma49rie&#x27;s49wed49ding[/compact][timestamp]1788904496[/timestamp][/song]
+[song][artist]Roberton, Bannerman[/artist][title]Mairi's Wedding[/title][compact]37Step37gai37ly,42on44we46go0*44Heel42for42heel39and42toe44for46toe49oe0*37Arm37in37arm42on44go46go0*46All44for42Ma39rie's37wed37ding[/compact][/song]
+[song][artist]Traditional[/artist][title]Auld Lang Syne[/title][compact]0Dit is een leuk lied0*0*49Should54auld53ac54quain58tance56be54for56got,0*57And54ne54ver58brot61to63mind?;[/compact][timestamp]1788876487[/timestamp][/song]
+[song][artist]Traditional[/artist][title]For he[/title][compact]44For41hes41a41jol39ly41good42fel41low[/compact][/song]
